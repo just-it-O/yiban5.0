@@ -1,6 +1,6 @@
 # Fake Yiban: 不一般的易班
 
-# [Start](https://github.com/just-it-O/yiban5.0/dist/)
+# [Start](https://github.com/just-it-O/yiban5.0)
 ## Project setup
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).

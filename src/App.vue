@@ -121,7 +121,7 @@
         <div class='about' v-if='page == -1'>
             <img src='./assets/logo.png'>
             <h2>Fake Yiban 1.0.0</h2>
-            <p>By <a href='https://github.com/just-it-O/yiban5.0'>just-it-O</a></p>
+            <p>By <a href='https://github.com/supertsy5/'>SUPERTSY5</a></p>
             <p>警告：本程序仅供演示，请勿滥用。一切后果自负。</p>
         </div>
     </div>
